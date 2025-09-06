@@ -39,6 +39,7 @@ public class WebMvcConfiguration extends WebMvcConfigurationSupport {
 
     /**
      * 通过knife4j生成接口文档
+     * sweagger2配置文件
      * @return
      */
     @Bean
